@@ -323,6 +323,7 @@ end
 end
 end
 end
+end
 end)
 
     local Misc = Window:NewTab("Misc")
